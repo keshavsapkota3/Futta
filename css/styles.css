@@ -1,1 +1,16 @@
- 
+body{
+background-color: #c7a9a9;
+}
+
+.logo{
+    
+    background-color: greenyellow;
+}
+.menu{
+    background-color: red;
+}
+.nav{
+    display: flex;
+    width: 100%;
+    background-color: blue;
+}
