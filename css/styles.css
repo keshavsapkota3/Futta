@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(224, 215, 209)!important;
+    color: rgb(65, 56, 56)!important;
+}
 .menu{
     display: flex;
 }
@@ -10,4 +14,28 @@
 .menu li{
     list-style-type: none;
     
+}
+.img{
+    height: 80px !important;
+    width: 80px;
+}
+.text{
+    font-size: 3.75em;
+    font-weight: bold;
+    color:rgb(251, 146, 60) ;
+}
+.texta{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.ftext{
+    font-size: 25px;
+
+}
+.ftexta{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(65, 56, 56);
+
 }
